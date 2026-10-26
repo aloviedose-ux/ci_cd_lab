@@ -1,0 +1,1 @@
+function validarLogica() { return true; }
